@@ -1,0 +1,6 @@
+# Core TCP demo components use only the Python standard library.
+# Install these packages to enable optional WebSocket gateway/client features
+# and HTTP upgrade checks.
+websockets>=10.0.0
+websocket-client>=1.5.0
+requests>=2.25.0
